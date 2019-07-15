@@ -1,7 +1,9 @@
 # Cornell Open Collaboration Initiative
 
  - trello: https://trello.com/b/VhWk5ivE/opportunities-for-collaboration
- - slack: ...
+ - slack: https://cornell-coci.slack.com/
+   - join with your cornell email: https://join.slack.com/t/cornell-coci/signup
+   - or with a personal email by contacting an organizer
  - organizers:
    - Tad M: @ezmac, wm284
    - ...
